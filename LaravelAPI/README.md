@@ -130,5 +130,5 @@ Fabio Machado   [Linkedin](https://www.linkedin.com/in/fabio-aires-machado/)
 
 ## License
 
-This project is an opensource, read the CGG of ETNA school Paris.
+This project is an opensource, read the CGV of ETNA school Paris.
 
